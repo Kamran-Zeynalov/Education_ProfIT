@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "ProfItTask.Controllers.LessonController",
+    "Method": "Create",
+    "RelativePath": "Lesson/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "lesson",
+        "Type": "ProfItTask.Core.Entities.Lesson",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProfItTask.Controllers.LessonController",
+    "Method": "Delete",
+    "RelativePath": "Lesson/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProfItTask.Controllers.LessonController",
+    "Method": "GetAll",
+    "RelativePath": "Lesson/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProfItTask.Controllers.LessonController",
+    "Method": "Update",
+    "RelativePath": "Lesson/Update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "lesson",
+        "Type": "ProfItTask.Core.Entities.Lesson",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProfItTask.Controllers.LessonController",
+    "Method": "UpdateView",
+    "RelativePath": "Lesson/UpdateView",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

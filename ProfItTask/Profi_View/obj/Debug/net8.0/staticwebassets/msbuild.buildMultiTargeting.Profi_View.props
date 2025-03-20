@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Profi_View.props" />
+</Project>

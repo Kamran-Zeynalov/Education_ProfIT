@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "FullProfit",
+    "Projects": [
+      {
+        "Path": "ProfItTask\\ProfItTask.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Profi_View\\Profi_View.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

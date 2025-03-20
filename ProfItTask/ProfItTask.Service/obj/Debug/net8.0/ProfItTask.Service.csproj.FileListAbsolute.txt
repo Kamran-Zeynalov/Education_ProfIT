@@ -1,0 +1,17 @@
+C:\Users\kzeyn.DESKTOP-NMNFVKM\source\repos\ProfItTask\ProfItTask.Service\bin\Debug\net8.0\ProfItTask.Service.deps.json
+C:\Users\kzeyn.DESKTOP-NMNFVKM\source\repos\ProfItTask\ProfItTask.Service\bin\Debug\net8.0\ProfItTask.Service.dll
+C:\Users\kzeyn.DESKTOP-NMNFVKM\source\repos\ProfItTask\ProfItTask.Service\bin\Debug\net8.0\ProfItTask.Service.pdb
+C:\Users\kzeyn.DESKTOP-NMNFVKM\source\repos\ProfItTask\ProfItTask.Service\bin\Debug\net8.0\ProfItTask.Core.dll
+C:\Users\kzeyn.DESKTOP-NMNFVKM\source\repos\ProfItTask\ProfItTask.Service\bin\Debug\net8.0\ProfItTask.Data.dll
+C:\Users\kzeyn.DESKTOP-NMNFVKM\source\repos\ProfItTask\ProfItTask.Service\bin\Debug\net8.0\ProfItTask.Data.pdb
+C:\Users\kzeyn.DESKTOP-NMNFVKM\source\repos\ProfItTask\ProfItTask.Service\bin\Debug\net8.0\ProfItTask.Core.pdb
+C:\Users\kzeyn.DESKTOP-NMNFVKM\source\repos\ProfItTask\ProfItTask.Service\obj\Debug\net8.0\ProfItTask.Service.csproj.AssemblyReference.cache
+C:\Users\kzeyn.DESKTOP-NMNFVKM\source\repos\ProfItTask\ProfItTask.Service\obj\Debug\net8.0\ProfItTask.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzeyn.DESKTOP-NMNFVKM\source\repos\ProfItTask\ProfItTask.Service\obj\Debug\net8.0\ProfItTask.Service.AssemblyInfoInputs.cache
+C:\Users\kzeyn.DESKTOP-NMNFVKM\source\repos\ProfItTask\ProfItTask.Service\obj\Debug\net8.0\ProfItTask.Service.AssemblyInfo.cs
+C:\Users\kzeyn.DESKTOP-NMNFVKM\source\repos\ProfItTask\ProfItTask.Service\obj\Debug\net8.0\ProfItTask.Service.csproj.CoreCompileInputs.cache
+C:\Users\kzeyn.DESKTOP-NMNFVKM\source\repos\ProfItTask\ProfItTask.Service\obj\Debug\net8.0\ProfItTa.4DC96084.Up2Date
+C:\Users\kzeyn.DESKTOP-NMNFVKM\source\repos\ProfItTask\ProfItTask.Service\obj\Debug\net8.0\ProfItTask.Service.dll
+C:\Users\kzeyn.DESKTOP-NMNFVKM\source\repos\ProfItTask\ProfItTask.Service\obj\Debug\net8.0\refint\ProfItTask.Service.dll
+C:\Users\kzeyn.DESKTOP-NMNFVKM\source\repos\ProfItTask\ProfItTask.Service\obj\Debug\net8.0\ProfItTask.Service.pdb
+C:\Users\kzeyn.DESKTOP-NMNFVKM\source\repos\ProfItTask\ProfItTask.Service\obj\Debug\net8.0\ref\ProfItTask.Service.dll

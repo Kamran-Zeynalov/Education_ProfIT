@@ -1,0 +1,39 @@
+﻿@using ProfItTask.Core.Entities
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model Lesson
+
+<h2>Yeni Ürün Ekle</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="LessonCode" class="control-label"></label>
+        <input asp-for="LessonCode" class="form-control" />
+        <span asp-validation-for="LessonCode" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" type="text" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Class" class="control-label"></label>
+        <input asp-for="Class" class="form-control" type="text" />
+        <span asp-validation-for="Class" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="TeacherName" class="control-label"></label>
+        <input asp-for="TeacherName" class="form-control" type="text" />
+        <span asp-validation-for="TeacherName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="TeacherSurname" class="control-label"></label>
+        <input asp-for="TeacherSurname" class="form-control" type="text" />
+        <span asp-validation-for="TeacherSurname" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Ürünü Ekle</button>
+        <a asp-action="Index" class="btn btn-secondary">Geri Dön</a>
+    </div>
+</form>
