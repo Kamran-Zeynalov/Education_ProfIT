@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ProfItTask\\ProfItTask.Core\\ProfItTask.Core.csproj": {}
+    "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masaüstü\\Education_ProfIT\\ProfItTask\\ProfItTask.Core\\ProfItTask.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ProfItTask\\ProfItTask.Core\\ProfItTask.Core.csproj": {
+    "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masaüstü\\Education_ProfIT\\ProfItTask\\ProfItTask.Core\\ProfItTask.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ProfItTask\\ProfItTask.Core\\ProfItTask.Core.csproj",
+        "projectUniqueName": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masaüstü\\Education_ProfIT\\ProfItTask\\ProfItTask.Core\\ProfItTask.Core.csproj",
         "projectName": "ProfItTask.Core",
-        "projectPath": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ProfItTask\\ProfItTask.Core\\ProfItTask.Core.csproj",
+        "projectPath": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masaüstü\\Education_ProfIT\\ProfItTask\\ProfItTask.Core\\ProfItTask.Core.csproj",
         "packagesPath": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ProfItTask\\ProfItTask.Core\\obj\\",
+        "outputPath": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masaüstü\\Education_ProfIT\\ProfItTask\\ProfItTask.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

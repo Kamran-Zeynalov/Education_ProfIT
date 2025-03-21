@@ -90,6 +90,9 @@ namespace ProfItTask.Data.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("LessonCode")
+                        .IsUnique();
+
                     b.ToTable("Lessons");
                 });
 
@@ -118,6 +121,9 @@ namespace ProfItTask.Data.Migrations
                         .HasColumnType("nvarchar(30)");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("Number")
+                        .IsUnique();
 
                     b.ToTable("Students");
                 });

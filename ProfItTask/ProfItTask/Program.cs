@@ -30,11 +30,13 @@ namespace ProfItTask
                               .AllowAnyHeader();
                     });
             });
+
             builder.Services.AddScoped<ILessonService, LessonService>();
-            
+            builder.Services.AddScoped<IStudentService, StudentService>();
+            builder.Services.AddScoped<IExamService, ExamService>();
 
 
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
@@ -51,7 +53,6 @@ namespace ProfItTask
             app.UseHttpsRedirection();
 
             app.UseAuthorization();
-
 
             app.MapControllers();
 

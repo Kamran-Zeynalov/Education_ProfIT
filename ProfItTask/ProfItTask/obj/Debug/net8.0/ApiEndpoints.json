@@ -1,5 +1,41 @@
 [
   {
+    "ContainingType": "ProfItTask.Controllers.ExamController",
+    "Method": "Create",
+    "RelativePath": "Exam/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "lCode",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "sNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "exam",
+        "Type": "ProfItTask.Core.Entities.Exam",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProfItTask.Controllers.ExamController",
+    "Method": "GetAll",
+    "RelativePath": "Exam/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "ProfItTask.Controllers.LessonController",
     "Method": "Create",
     "RelativePath": "Lesson/Create",
@@ -66,6 +102,85 @@
     "ContainingType": "ProfItTask.Controllers.LessonController",
     "Method": "UpdateView",
     "RelativePath": "Lesson/UpdateView",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProfItTask.Controllers.StudentController",
+    "Method": "Create",
+    "RelativePath": "Student/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "ProfItTask.Core.Entities.Student",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProfItTask.Controllers.StudentController",
+    "Method": "Delete",
+    "RelativePath": "Student/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProfItTask.Controllers.StudentController",
+    "Method": "GetAll",
+    "RelativePath": "Student/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProfItTask.Controllers.StudentController",
+    "Method": "Update",
+    "RelativePath": "Student/Update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "student",
+        "Type": "ProfItTask.Core.Entities.Student",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProfItTask.Controllers.StudentController",
+    "Method": "UpdateView",
+    "RelativePath": "Student/UpdateView",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

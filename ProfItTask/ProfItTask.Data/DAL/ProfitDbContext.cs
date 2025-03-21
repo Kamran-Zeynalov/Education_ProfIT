@@ -9,5 +9,16 @@ namespace ProfItTask.Data.DAL
         public DbSet<Student> Students { get; set; }
         public DbSet<Exam> Exams { get; set; }
 
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Student>()
+               .HasIndex(s => s.Number)
+               .IsUnique();
+
+            modelBuilder.Entity<Lesson>()
+                .HasIndex(l => l.LessonCode)
+                .IsUnique();
+        }
+
     }
 }

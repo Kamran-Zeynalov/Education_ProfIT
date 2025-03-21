@@ -28,11 +28,6 @@ namespace ProfItTask.Controllers
         public async Task<IActionResult> Create([FromBody]Lesson lesson)
         {
             if(lesson == null) return NotFound();
-            if (!ModelState.IsValid)
-            {
-                ModelState.AddModelError("", "Please check values");
-                return BadRequest();
-            }
             
            await _lessonService.Create(lesson);
             return Ok();

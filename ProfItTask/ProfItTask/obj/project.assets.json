@@ -4463,11 +4463,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ProfItTask\\ProfItTask\\ProfItTask.csproj",
+      "projectUniqueName": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masaüstü\\Education_ProfIT\\ProfItTask\\ProfItTask\\ProfItTask.csproj",
       "projectName": "ProfItTask",
-      "projectPath": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ProfItTask\\ProfItTask\\ProfItTask.csproj",
+      "projectPath": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masaüstü\\Education_ProfIT\\ProfItTask\\ProfItTask\\ProfItTask.csproj",
       "packagesPath": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ProfItTask\\ProfItTask\\obj\\",
+      "outputPath": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masaüstü\\Education_ProfIT\\ProfItTask\\ProfItTask\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4489,8 +4489,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ProfItTask\\ProfItTask.Service\\ProfItTask.Service.csproj": {
-              "projectPath": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ProfItTask\\ProfItTask.Service\\ProfItTask.Service.csproj"
+            "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masaüstü\\Education_ProfIT\\ProfItTask\\ProfItTask.Service\\ProfItTask.Service.csproj": {
+              "projectPath": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masaüstü\\Education_ProfIT\\ProfItTask\\ProfItTask.Service\\ProfItTask.Service.csproj"
             }
           }
         }

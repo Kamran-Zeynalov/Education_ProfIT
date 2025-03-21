@@ -1,30 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ProfItTask\\",
+  "WorkspaceRootPath": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masa\u00FCst\u00FC\\Education_ProfIT\\ProfItTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67D9681C-6919-4CB3-ADCC-A6B3434CD3E3}|ProfItTask\\ProfItTask.csproj|c:\\users\\kzeyn.desktop-nmnfvkm\\source\\repos\\profittask\\profittask\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67D9681C-6919-4CB3-ADCC-A6B3434CD3E3}|ProfItTask\\ProfItTask.csproj|solutionrelative:profittask\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67D9681C-6919-4CB3-ADCC-A6B3434CD3E3}|ProfItTask\\ProfItTask.csproj|c:\\users\\kzeyn.desktop-nmnfvkm\\source\\repos\\profittask\\profittask\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67D9681C-6919-4CB3-ADCC-A6B3434CD3E3}|ProfItTask\\ProfItTask.csproj|solutionrelative:profittask\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20FBFCF4-2579-4967-AFEE-BDEFEFFAA552}|ProfItTask.Service\\ProfItTask.Service.csproj|c:\\users\\kzeyn.desktop-nmnfvkm\\source\\repos\\profittask\\profittask.service\\services\\implementation\\lessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FBFCF4-2579-4967-AFEE-BDEFEFFAA552}|ProfItTask.Service\\ProfItTask.Service.csproj|solutionrelative:profittask.service\\services\\implementation\\lessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20FBFCF4-2579-4967-AFEE-BDEFEFFAA552}|ProfItTask.Service\\ProfItTask.Service.csproj|c:\\users\\kzeyn.desktop-nmnfvkm\\source\\repos\\profittask\\profittask.service\\services\\interface\\ilessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FBFCF4-2579-4967-AFEE-BDEFEFFAA552}|ProfItTask.Service\\ProfItTask.Service.csproj|solutionrelative:profittask.service\\services\\interface\\ilessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F40FCBA1-7EF6-4048-9C6D-8206EC6A67D1}|ProfItTask.Core\\ProfItTask.Core.csproj|c:\\users\\kzeyn.desktop-nmnfvkm\\source\\repos\\profittask\\profittask.core\\entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F40FCBA1-7EF6-4048-9C6D-8206EC6A67D1}|ProfItTask.Core\\ProfItTask.Core.csproj|solutionrelative:profittask.core\\entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67D9681C-6919-4CB3-ADCC-A6B3434CD3E3}|ProfItTask\\ProfItTask.csproj|c:\\users\\kzeyn.desktop-nmnfvkm\\source\\repos\\profittask\\profittask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67D9681C-6919-4CB3-ADCC-A6B3434CD3E3}|ProfItTask\\ProfItTask.csproj|solutionrelative:profittask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F40FCBA1-7EF6-4048-9C6D-8206EC6A67D1}|ProfItTask.Core\\ProfItTask.Core.csproj|c:\\users\\kzeyn.desktop-nmnfvkm\\onedrive\\masa\u00FCst\u00FC\\education_profit\\profittask\\profittask.core\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40FCBA1-7EF6-4048-9C6D-8206EC6A67D1}|ProfItTask.Core\\ProfItTask.Core.csproj|solutionrelative:profittask.core\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,80 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ProfItTask\\ProfItTask\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "ProfItTask\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ProfItTask\\ProfItTask\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "ProfItTask\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T22:19:23.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ILessonService.cs",
-              "DocumentMoniker": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ProfItTask\\ProfItTask.Service\\Services\\Interface\\ILessonService.cs",
-              "RelativeDocumentMoniker": "ProfItTask.Service\\Services\\Interface\\ILessonService.cs",
-              "ToolTip": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ProfItTask\\ProfItTask.Service\\Services\\Interface\\ILessonService.cs",
-              "RelativeToolTip": "ProfItTask.Service\\Services\\Interface\\ILessonService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T19:37:59.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ProfItTask\\ProfItTask\\Program.cs",
-              "RelativeDocumentMoniker": "ProfItTask\\Program.cs",
-              "ToolTip": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ProfItTask\\ProfItTask\\Program.cs",
-              "RelativeToolTip": "ProfItTask\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAtwBcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T19:01:10.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Lesson.cs",
-              "DocumentMoniker": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ProfItTask\\ProfItTask.Core\\Entities\\Lesson.cs",
-              "RelativeDocumentMoniker": "ProfItTask.Core\\Entities\\Lesson.cs",
-              "ToolTip": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ProfItTask\\ProfItTask.Core\\Entities\\Lesson.cs",
-              "RelativeToolTip": "ProfItTask.Core\\Entities\\Lesson.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T18:56:37.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LessonService.cs",
-              "DocumentMoniker": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ProfItTask\\ProfItTask.Service\\Services\\Implementation\\LessonService.cs",
-              "RelativeDocumentMoniker": "ProfItTask.Service\\Services\\Implementation\\LessonService.cs",
-              "ToolTip": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ProfItTask\\ProfItTask.Service\\Services\\Implementation\\LessonService.cs",
-              "RelativeToolTip": "ProfItTask.Service\\Services\\Implementation\\LessonService.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAkwCoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T18:31:29.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LessonController.cs",
-              "DocumentMoniker": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ProfItTask\\ProfItTask\\Controllers\\LessonController.cs",
-              "RelativeDocumentMoniker": "ProfItTask\\Controllers\\LessonController.cs",
-              "ToolTip": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ProfItTask\\ProfItTask\\Controllers\\LessonController.cs",
-              "RelativeToolTip": "ProfItTask\\Controllers\\LessonController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAwwC0AAAAyAAAAAAAAAA==",
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masa\u00FCst\u00FC\\Education_ProfIT\\ProfItTask\\ProfItTask.Core\\Entities\\Exam.cs",
+              "RelativeDocumentMoniker": "ProfItTask.Core\\Entities\\Exam.cs",
+              "ToolTip": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masa\u00FCst\u00FC\\Education_ProfIT\\ProfItTask\\ProfItTask.Core\\Entities\\Exam.cs",
+              "RelativeToolTip": "ProfItTask.Core\\Entities\\Exam.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T17:58:46.993Z",
+              "WhenOpened": "2025-03-21T13:11:04.946Z",
               "EditorCaption": ""
             }
           ]

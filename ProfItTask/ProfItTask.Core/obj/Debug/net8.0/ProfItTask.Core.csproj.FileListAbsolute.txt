@@ -9,3 +9,15 @@ C:\Users\kzeyn.DESKTOP-NMNFVKM\source\repos\ProfItTask\ProfItTask.Core\obj\Debug
 C:\Users\kzeyn.DESKTOP-NMNFVKM\source\repos\ProfItTask\ProfItTask.Core\obj\Debug\net8.0\refint\ProfItTask.Core.dll
 C:\Users\kzeyn.DESKTOP-NMNFVKM\source\repos\ProfItTask\ProfItTask.Core\obj\Debug\net8.0\ProfItTask.Core.pdb
 C:\Users\kzeyn.DESKTOP-NMNFVKM\source\repos\ProfItTask\ProfItTask.Core\obj\Debug\net8.0\ref\ProfItTask.Core.dll
+C:\Users\kzeyn.DESKTOP-NMNFVKM\OneDrive\Masaüstü\Education_ProfIT\ProfItTask\ProfItTask.Core\bin\Debug\net8.0\ProfItTask.Core.deps.json
+C:\Users\kzeyn.DESKTOP-NMNFVKM\OneDrive\Masaüstü\Education_ProfIT\ProfItTask\ProfItTask.Core\bin\Debug\net8.0\ProfItTask.Core.dll
+C:\Users\kzeyn.DESKTOP-NMNFVKM\OneDrive\Masaüstü\Education_ProfIT\ProfItTask\ProfItTask.Core\bin\Debug\net8.0\ProfItTask.Core.pdb
+C:\Users\kzeyn.DESKTOP-NMNFVKM\OneDrive\Masaüstü\Education_ProfIT\ProfItTask\ProfItTask.Core\obj\Debug\net8.0\ProfItTask.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzeyn.DESKTOP-NMNFVKM\OneDrive\Masaüstü\Education_ProfIT\ProfItTask\ProfItTask.Core\obj\Debug\net8.0\ProfItTask.Core.AssemblyInfoInputs.cache
+C:\Users\kzeyn.DESKTOP-NMNFVKM\OneDrive\Masaüstü\Education_ProfIT\ProfItTask\ProfItTask.Core\obj\Debug\net8.0\ProfItTask.Core.AssemblyInfo.cs
+C:\Users\kzeyn.DESKTOP-NMNFVKM\OneDrive\Masaüstü\Education_ProfIT\ProfItTask\ProfItTask.Core\obj\Debug\net8.0\ProfItTask.Core.csproj.CoreCompileInputs.cache
+C:\Users\kzeyn.DESKTOP-NMNFVKM\OneDrive\Masaüstü\Education_ProfIT\ProfItTask\ProfItTask.Core\obj\Debug\net8.0\ProfItTask.Core.sourcelink.json
+C:\Users\kzeyn.DESKTOP-NMNFVKM\OneDrive\Masaüstü\Education_ProfIT\ProfItTask\ProfItTask.Core\obj\Debug\net8.0\ProfItTask.Core.dll
+C:\Users\kzeyn.DESKTOP-NMNFVKM\OneDrive\Masaüstü\Education_ProfIT\ProfItTask\ProfItTask.Core\obj\Debug\net8.0\refint\ProfItTask.Core.dll
+C:\Users\kzeyn.DESKTOP-NMNFVKM\OneDrive\Masaüstü\Education_ProfIT\ProfItTask\ProfItTask.Core\obj\Debug\net8.0\ProfItTask.Core.pdb
+C:\Users\kzeyn.DESKTOP-NMNFVKM\OneDrive\Masaüstü\Education_ProfIT\ProfItTask\ProfItTask.Core\obj\Debug\net8.0\ref\ProfItTask.Core.dll
