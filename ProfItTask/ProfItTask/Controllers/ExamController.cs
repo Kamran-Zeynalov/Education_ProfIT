@@ -8,8 +8,15 @@ namespace ProfItTask.Controllers
     public class ExamController:ControllerBase
     {
         private readonly IExamService _examService;
-        public ExamController(IExamService examService) => _examService = examService;
+        private readonly ILessonService _lessonService;
+        private readonly IStudentService _studentService;
 
+        public ExamController(IExamService examService, ILessonService lessonService, IStudentService studentService)
+        { 
+            _examService = examService;
+            _lessonService = lessonService;
+            _studentService = studentService;
+        }
 
         [HttpGet]
         [Route("GetAll")]
@@ -18,9 +25,26 @@ namespace ProfItTask.Controllers
             return Ok(await _examService.GetAll());
         }
 
+
+        [HttpGet]
+        [Route("SelectList")]
+        public async Task<IActionResult> CreateView()
+        {
+            List<Lesson> lessons = await _lessonService.GetAll();
+            List<Student> students = await _studentService.GetAll();
+            var response = new
+            {
+                Lessons = lessons,
+                Students = students
+            };
+            return Ok(response);
+        }
+
+
+
         [HttpPost]
         [Route("Create")]
-        public async Task<IActionResult> Create([FromQuery]string lCode,[FromQuery] int sNumber, [FromBody]Exam exam)
+        public async Task<IActionResult> Create([FromQuery] string lCode, [FromQuery] int sNumber, [FromBody] Exam exam)
         {
             await _examService.Create(lCode, sNumber, exam);
             return Ok();

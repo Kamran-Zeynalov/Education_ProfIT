@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masa\u00FCst\u00FC\\Education_ProfIT\\ProfItTask\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{67D9681C-6919-4CB3-ADCC-A6B3434CD3E3}|ProfItTask\\ProfItTask.csproj|c:\\users\\kzeyn.desktop-nmnfvkm\\onedrive\\masa\u00FCst\u00FC\\education_profit\\profittask\\profittask\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9681C-6919-4CB3-ADCC-A6B3434CD3E3}|ProfItTask\\ProfItTask.csproj|solutionrelative:profittask\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FBFCF4-2579-4967-AFEE-BDEFEFFAA552}|ProfItTask.Service\\ProfItTask.Service.csproj|c:\\users\\kzeyn.desktop-nmnfvkm\\onedrive\\masa\u00FCst\u00FC\\education_profit\\profittask\\profittask.service\\services\\implementation\\examservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FBFCF4-2579-4967-AFEE-BDEFEFFAA552}|ProfItTask.Service\\ProfItTask.Service.csproj|solutionrelative:profittask.service\\services\\implementation\\examservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F40FCBA1-7EF6-4048-9C6D-8206EC6A67D1}|ProfItTask.Core\\ProfItTask.Core.csproj|c:\\users\\kzeyn.desktop-nmnfvkm\\onedrive\\masa\u00FCst\u00FC\\education_profit\\profittask\\profittask.core\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F40FCBA1-7EF6-4048-9C6D-8206EC6A67D1}|ProfItTask.Core\\ProfItTask.Core.csproj|solutionrelative:profittask.core\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FBFCF4-2579-4967-AFEE-BDEFEFFAA552}|ProfItTask.Service\\ProfItTask.Service.csproj|c:\\users\\kzeyn.desktop-nmnfvkm\\onedrive\\masa\u00FCst\u00FC\\education_profit\\profittask\\profittask.service\\services\\implementation\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FBFCF4-2579-4967-AFEE-BDEFEFFAA552}|ProfItTask.Service\\ProfItTask.Service.csproj|solutionrelative:profittask.service\\services\\implementation\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FBFCF4-2579-4967-AFEE-BDEFEFFAA552}|ProfItTask.Service\\ProfItTask.Service.csproj|c:\\users\\kzeyn.desktop-nmnfvkm\\onedrive\\masa\u00FCst\u00FC\\education_profit\\profittask\\profittask.service\\services\\implementation\\lessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FBFCF4-2579-4967-AFEE-BDEFEFFAA552}|ProfItTask.Service\\ProfItTask.Service.csproj|solutionrelative:profittask.service\\services\\implementation\\lessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FBFCF4-2579-4967-AFEE-BDEFEFFAA552}|ProfItTask.Service\\ProfItTask.Service.csproj|c:\\users\\kzeyn.desktop-nmnfvkm\\onedrive\\masa\u00FCst\u00FC\\education_profit\\profittask\\profittask.service\\services\\interface\\iexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FBFCF4-2579-4967-AFEE-BDEFEFFAA552}|ProfItTask.Service\\ProfItTask.Service.csproj|solutionrelative:profittask.service\\services\\interface\\iexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9681C-6919-4CB3-ADCC-A6B3434CD3E3}|ProfItTask\\ProfItTask.csproj|c:\\users\\kzeyn.desktop-nmnfvkm\\onedrive\\masa\u00FCst\u00FC\\education_profit\\profittask\\profittask\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9681C-6919-4CB3-ADCC-A6B3434CD3E3}|ProfItTask\\ProfItTask.csproj|solutionrelative:profittask\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +46,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "LessonService.cs",
+              "DocumentMoniker": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masa\u00FCst\u00FC\\Education_ProfIT\\ProfItTask\\ProfItTask.Service\\Services\\Implementation\\LessonService.cs",
+              "RelativeDocumentMoniker": "ProfItTask.Service\\Services\\Implementation\\LessonService.cs",
+              "ToolTip": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masa\u00FCst\u00FC\\Education_ProfIT\\ProfItTask\\ProfItTask.Service\\Services\\Implementation\\LessonService.cs",
+              "RelativeToolTip": "ProfItTask.Service\\Services\\Implementation\\LessonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAApwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T20:20:10.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masa\u00FCst\u00FC\\Education_ProfIT\\ProfItTask\\ProfItTask\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ProfItTask\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masa\u00FCst\u00FC\\Education_ProfIT\\ProfItTask\\ProfItTask\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "ProfItTask\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAApwBoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T20:20:10.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masa\u00FCst\u00FC\\Education_ProfIT\\ProfItTask\\ProfItTask.Service\\Services\\Implementation\\StudentService.cs",
+              "RelativeDocumentMoniker": "ProfItTask.Service\\Services\\Implementation\\StudentService.cs",
+              "ToolTip": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masa\u00FCst\u00FC\\Education_ProfIT\\ProfItTask\\ProfItTask.Service\\Services\\Implementation\\StudentService.cs",
+              "RelativeToolTip": "ProfItTask.Service\\Services\\Implementation\\StudentService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAtwBAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T20:20:10.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Exam.cs",
               "DocumentMoniker": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masa\u00FCst\u00FC\\Education_ProfIT\\ProfItTask\\ProfItTask.Core\\Entities\\Exam.cs",
               "RelativeDocumentMoniker": "ProfItTask.Core\\Entities\\Exam.cs",
               "ToolTip": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masa\u00FCst\u00FC\\Education_ProfIT\\ProfItTask\\ProfItTask.Core\\Entities\\Exam.cs",
               "RelativeToolTip": "ProfItTask.Core\\Entities\\Exam.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAawBgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T13:11:04.946Z",
+              "WhenOpened": "2025-03-21T20:16:51.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExamService.cs",
+              "DocumentMoniker": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masa\u00FCst\u00FC\\Education_ProfIT\\ProfItTask\\ProfItTask.Service\\Services\\Implementation\\ExamService.cs",
+              "RelativeDocumentMoniker": "ProfItTask.Service\\Services\\Implementation\\ExamService.cs",
+              "ToolTip": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masa\u00FCst\u00FC\\Education_ProfIT\\ProfItTask\\ProfItTask.Service\\Services\\Implementation\\ExamService.cs",
+              "RelativeToolTip": "ProfItTask.Service\\Services\\Implementation\\ExamService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAtwCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T19:50:29.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IExamService.cs",
+              "DocumentMoniker": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masa\u00FCst\u00FC\\Education_ProfIT\\ProfItTask\\ProfItTask.Service\\Services\\Interface\\IExamService.cs",
+              "RelativeDocumentMoniker": "ProfItTask.Service\\Services\\Interface\\IExamService.cs",
+              "ToolTip": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masa\u00FCst\u00FC\\Education_ProfIT\\ProfItTask\\ProfItTask.Service\\Services\\Interface\\IExamService.cs",
+              "RelativeToolTip": "ProfItTask.Service\\Services\\Interface\\IExamService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T19:50:09.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExamController.cs",
+              "DocumentMoniker": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masa\u00FCst\u00FC\\Education_ProfIT\\ProfItTask\\ProfItTask\\Controllers\\ExamController.cs",
+              "RelativeDocumentMoniker": "ProfItTask\\Controllers\\ExamController.cs",
+              "ToolTip": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\OneDrive\\Masa\u00FCst\u00FC\\Education_ProfIT\\ProfItTask\\ProfItTask\\Controllers\\ExamController.cs",
+              "RelativeToolTip": "ProfItTask\\Controllers\\ExamController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAlwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T19:43:53.157Z",
               "EditorCaption": ""
             }
           ]

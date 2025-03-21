@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProfItTask.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+255148f447823c8df30459b2697105d5572ac834")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6585fe0c6f1887259fc7fbb83302fdb7d10607b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProfItTask.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProfItTask.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

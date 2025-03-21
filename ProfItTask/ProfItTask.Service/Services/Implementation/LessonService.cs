@@ -20,7 +20,7 @@ namespace ProfItTask.Service.Services.Implementation
             bool exists = await _context.Lessons.AnyAsync(s => s.LessonCode == lesson.LessonCode);
             if (exists) throw new InvalidOperationException("The Lesson already exist");
 
-            if (lesson.LessonCode.Length > 3)
+            if (lesson.LessonCode.Length != 3)
                 throw new InvalidOperationException("LessonCode Length must be 3 char");
 
             _context.Lessons.Add(lesson);
@@ -51,7 +51,7 @@ namespace ProfItTask.Service.Services.Implementation
 
         public async Task Update(int id, Lesson lesson)
         {
-            if(id == 0) throw new ArgumentNullException("id");
+            if (id == 0) throw new ArgumentNullException("id");
             if (lesson is null) throw new ArgumentNullException("Lesson is null");
             Lesson? updatedLesson = await _context.Lessons.FirstOrDefaultAsync(l => l.Id == id);
             if (updatedLesson is null) throw new ArgumentNullException("Lesson Not Found");
@@ -62,6 +62,8 @@ namespace ProfItTask.Service.Services.Implementation
             if (exists)
                 throw new InvalidOperationException("The Lesson already exists.");
 
+            if (lesson.LessonCode.Length != 3)
+                throw new InvalidOperationException("LessonCode Length must be 3 char");
 
             updatedLesson.TeacherName = lesson.TeacherName;
             updatedLesson.TeacherSurname = lesson.TeacherSurname;

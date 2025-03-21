@@ -15,10 +15,13 @@
       input {
         margin: 20px 0;
       }
+      select {
+        margin: 20px 0;
+      }
     </style>
   </head>
   <body>
-    <h1>Lesson CRUD</h1>
+    <h1>Exam CRUD</h1>
     <br />
     <h2>List</h2>
     <table border="1" class="table" style="text-align: center">
@@ -35,8 +38,11 @@
     </table>
 
     <h2>Create</h2>
-    <select name="" id="">
-        <option value=""></option>
+    <select id="listLessons" class="form-control">
+      <option value="" disabled selected>Default</option>
+    </select>
+    <select id="listStudents" class="form-control">
+      <option value="" disabled selected>Default</option>
     </select>
     <input type="datetime-local" class="form-control" id="dateExam" placeholder="Date">
     <input type="number" class="form-control" id="gradeExam" placeholder="Grade" min="0" max="9">

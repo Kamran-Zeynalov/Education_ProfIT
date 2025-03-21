@@ -21,7 +21,6 @@ namespace ProfItTask.Core.Entities
         public int Grade { get; set; }
 
 
-        //Relations
         public Lesson? Lesson{ get; set; }
         public Student? Student{ get; set; }
     }

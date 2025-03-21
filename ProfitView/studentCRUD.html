@@ -7,7 +7,6 @@
     <title>PROFIT</title>
 
     <style>
-     
         input{
             margin: 20px 0;
         }
@@ -21,33 +20,30 @@
         <thead>
             <tr>
                 <th scope="col">ID</th>
-                <th scope="col">LessonCode</th>
-                <th scope="col">Name</th>
+                <th scope="col">Student Number</th>
+                <th scope="col">Name Surname</th>
                 <th scope="col">Class</th>
-                <th scope="col">Teacher</th>
                 <th scope="col">Remove</th>
             </tr>
         </thead>
-        <tbody id="lesson-list"></tbody>
+        <tbody id="student-list"></tbody>
     </table>
 
     <h2>Update</h2>
-    <input type="text" class="form-control" id="lessonCodeU" placeholder="LessonCode(max 3 char)">
+    <input type="number" class="form-control" id="numberU" placeholder="Student Number">
     <input type="text" class="form-control" id="nameU" placeholder="Name">
-    <input type="hidden" id="lessonIdU">
-    <input type="number" class="form-control" id="classU" placeholder="Class" min="0" max="99">
-    <input type="text" class="form-control" id="teacherNameU" placeholder="TeacherName">
-    <input type="text" class="form-control" id="teacherSurnameU" placeholder="TeacherSurname">
+    <input type="text" class="form-control" id="surnameU" placeholder="Surname">
+    <input type="class" class="form-control" id="classU" placeholder="Class">
+    <input type="hidden" id="studentIdU">
     <button onclick="UpdateStudent()" class="btn btn-primary form-control">UPDATE</button>
 
 
     <h2>Create</h2>
     <div id="errorContainer"></div>
-    <input type="text" class="form-control" id="lessonCode" placeholder="LessonCode(max 3 char)">
+    <input type="number" class="form-control" id="numberStu" placeholder="Student Number">
     <input type="text" class="form-control" id="name" placeholder="Name">
+    <input type="text" class="form-control" id="surname" placeholder="Surname">
     <input type="number" class="form-control" id="class" placeholder="Class" min="0" max="99">
-    <input type="text" class="form-control" id="teacherName" placeholder="TeacherName">
-    <input type="text" class="form-control" id="teacherSurname" placeholder="TeacherSurname">
     <button onclick="CreateStudent()" class="btn btn-primary form-control">ADD</button>
 
 

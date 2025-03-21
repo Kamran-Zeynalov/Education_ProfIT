@@ -18,6 +18,12 @@ namespace ProfItTask.Data.DAL
             modelBuilder.Entity<Lesson>()
                 .HasIndex(l => l.LessonCode)
                 .IsUnique();
+
+            modelBuilder.Entity<Lesson>(entity =>
+            {
+                entity.Property(e => e.LessonCode)
+                    .IsRequired().HasColumnType("char(3)");
+            });
         }
 
     }

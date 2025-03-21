@@ -36,6 +36,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "ProfItTask.Controllers.ExamController",
+    "Method": "CreateView",
+    "RelativePath": "Exam/SelectList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "ProfItTask.Controllers.LessonController",
     "Method": "Create",
     "RelativePath": "Lesson/Create",

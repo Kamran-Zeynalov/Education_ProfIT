@@ -17,6 +17,18 @@
         }
       }
     },
+    "/Exam/SelectList": {
+      "get": {
+        "tags": [
+          "Exam"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/Exam/Create": {
       "post": {
         "tags": [

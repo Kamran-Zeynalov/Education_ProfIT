@@ -13,7 +13,13 @@ namespace ProfItTask.Service.Services.Implementation
         {
             _context = context;
         }
-
+        public async Task<Exam> Get(int id)
+        {
+            if (id == 0) throw new ArgumentException("id");
+            Exam? exam = await _context.Exams.FirstOrDefaultAsync(l => l.Id == id);
+            if (exam is null) throw new ArgumentNullException($"exam is null");
+            return exam;
+        }
         public async Task Create(string lCode, int sNumber, Exam exam)
         {
             if (exam == null) throw new ArgumentNullException("Model is null");

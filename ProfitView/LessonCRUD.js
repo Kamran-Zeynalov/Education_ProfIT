@@ -26,7 +26,6 @@ async function CreateLesson() {
   const classNumber = document.getElementById("class").value;
   const teacherName = document.getElementById("teacherName").value;
   const teacherSurname = document.getElementById("teacherSurname").value;
-
   const response = await fetch("https://localhost:7019/Lesson/Create", {
     method: "POST",
     headers: {
