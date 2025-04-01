@@ -21,7 +21,11 @@
     </style>
   </head>
   <body>
-    <h1>Exam CRUD</h1>
+    <div style="display: flex; align-items: center;">
+      <h1>Exam CRUD </h1> 
+      <h3> / <a href="./lessonCRUD.html"> Lesson CRUD  </a></h3> 
+      <h3> / <a href="./studentCRUD.html"> Student CRUD</a></h3>
+    </div>
     <br />
     <h2>List</h2>
     <table border="1" class="table" style="text-align: center">
@@ -39,10 +43,10 @@
 
     <h2>Create</h2>
     <select id="listLessons" class="form-control">
-      <option value="" disabled selected>Default</option>
+      <option value="" disabled selected>Lessons</option>
     </select>
     <select id="listStudents" class="form-control">
-      <option value="" disabled selected>Default</option>
+      <option value="" disabled selected>Students</option>
     </select>
     <input type="datetime-local" class="form-control" id="dateExam" placeholder="Date">
     <input type="number" class="form-control" id="gradeExam" placeholder="Grade" min="0" max="9">
