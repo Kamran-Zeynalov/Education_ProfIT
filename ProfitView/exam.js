@@ -49,7 +49,7 @@ async function CreateExam() {
     location.reload();
     // await LoadLessons();
   } else {
-    alert("ERROR");
+    alert(response.error);
   }
 }
 
